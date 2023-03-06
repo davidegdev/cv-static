@@ -410,3 +410,10 @@ h3 {
 .resume .func .interests-items div span {
   display: block;
 }
+
+.email{
+  white-space: pre-line;
+  max-width: 200px;
+  word-wrap: break-word;
+  font-size: 8px;
+}

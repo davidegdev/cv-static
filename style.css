@@ -412,8 +412,10 @@ h3 {
 }
 
 .email{
-  white-space: pre-line;
-  max-width: 200px;
   word-wrap: break-word;
-  font-size: 8px;
+  font-size: 9px;
+}
+
+.about{
+  text-align: justify;
 }

@@ -160,10 +160,10 @@ h3 {
   display: inline-block;
   font-size: 30px;
   background: #8d9e78;
-  width: 60px;
-  height: 60px;
+  width: 40px;
+  height: 40px;
   border-radius: 50%;
-  line-height: 60px;
+  line-height: 40px;
   color: #fcfcfc;
   margin: 0 10px 10px 10px;
   transition-duration: 0.3s;

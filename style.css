@@ -158,12 +158,12 @@ h3 {
 }
 .resume .base .follow .box i {
   display: inline-block;
-  font-size: 30px;
+  font-size: 20px;
   background: #8d9e78;
-  width: 40px;
-  height: 40px;
+  width: 35px;
+  height: 35px;
   border-radius: 50%;
-  line-height: 40px;
+  line-height: 35px;
   color: #fcfcfc;
   margin: 0 10px 10px 10px;
   transition-duration: 0.3s;
